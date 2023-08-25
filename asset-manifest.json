@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/mynewsite/static/css/main.9b9366fe.css",
+    "main.js": "/mynewsite/static/js/main.04f56259.js",
+    "static/media/title.png": "/mynewsite/static/media/title.99de4bb1bbd86b6e8c89.png",
+    "static/media/about.png": "/mynewsite/static/media/about.883fb34f5013204359bf.png",
+    "static/media/package1.png": "/mynewsite/static/media/package1.1db9892e83b3e5b91ab5.png",
+    "static/media/package3.png": "/mynewsite/static/media/package3.42f1a17f55bb9e7f2291.png",
+    "static/media/package4.png": "/mynewsite/static/media/package4.8c5577492c6c5ff36256.png",
+    "static/media/package2.png": "/mynewsite/static/media/package2.eaf1810a74d30a2bc57c.png",
+    "static/media/service4.png": "/mynewsite/static/media/service4.7aff34804b21f41acad7.png",
+    "static/media/service2.png": "/mynewsite/static/media/service2.f858d4786c096f9ad510.png",
+    "static/media/service1.png": "/mynewsite/static/media/service1.6a68f629486f9f724449.png",
+    "static/media/service3.png": "/mynewsite/static/media/service3.96aecfae783bdc98cb8b.png",
+    "static/media/advantage3.png": "/mynewsite/static/media/advantage3.83fddf36cf6caa4b3fb8.png",
+    "static/media/advantage1.png": "/mynewsite/static/media/advantage1.d58ad313c147d0a34d68.png",
+    "index.html": "/mynewsite/index.html",
+    "main.9b9366fe.css.map": "/mynewsite/static/css/main.9b9366fe.css.map",
+    "main.04f56259.js.map": "/mynewsite/static/js/main.04f56259.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b9366fe.css",
+    "static/js/main.04f56259.js"
+  ]
+}
